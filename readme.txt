@@ -1,20 +1,20 @@
 === Summary Page ===
 Contributors: guoquan
 Donate link: http://guoquan.org
-Tags: child pages, meta
+Tags: child pages, sub-pages, meta
 Requires at least: 3.7.1
 Tested up to: 3.7.1
 Stable tag: 0.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-List and/or include sub-pages with meta option.
+List and/or include sub-pages (child pages) with meta option.
 
 == Description ==
 
 List and/or include sub-pages with meta option.
 
-After install and activate the plugin, add a custom field 'is_summary' and set to 1 to enable for each individual page.
+After installing and activating the plugin, add a custom field 'is_summary' to a page and set to 1 to enable showing all its child pages (non-cascaded) after the page itself.
 
 == Installation ==
 
