@@ -1,7 +1,7 @@
-=== Plugin Name ===
+=== Summary Page ===
 Contributors: guoquan
 Donate link: http://guoquan.org
-Tags: child pages, shortcode
+Tags: child pages, meta
 Requires at least: 3.7.1
 Tested up to: 3.7.1
 Stable tag: 0.0.1
