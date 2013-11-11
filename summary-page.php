@@ -3,14 +3,11 @@
 /**
 * Plugin Name: Summary Page
 * Plugin URI: https://github.com/guoquan/summary-page
-* Description: List and/or include sub-pages with meta option.
+* Description: List and/or include sub-pages (child pages).
 * Version: 0.0.1
 * Author: Guo Quan
 * Author URI: http://guoquan.org
 */
-
-//[summary-child-pages] 
-//[summary-child-pages id=parent_id]
 
 
 // Exit if accessed directly

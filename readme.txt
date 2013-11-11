@@ -14,7 +14,7 @@ List and/or include sub-pages (child pages) with meta option.
 
 List and/or include sub-pages with meta option.
 
-After installing and activating the plugin, add a custom field 'is_summary' to a page and set to 1 to enable showing all its child pages (non-cascaded) after the page itself.
+After installing and activating the plugin, add a custom field (meta) 'is_summary' to a page and set to 1 to enable showing all its child pages (non-cascaded) after the page itself.
 
 == Installation ==
 
